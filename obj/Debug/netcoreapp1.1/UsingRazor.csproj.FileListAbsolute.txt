@@ -1,0 +1,9 @@
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\bin\Debug\netcoreapp1.1\UsingRazor.deps.json
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\bin\Debug\netcoreapp1.1\UsingRazor.runtimeconfig.json
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\bin\Debug\netcoreapp1.1\UsingRazor.runtimeconfig.dev.json
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\bin\Debug\netcoreapp1.1\UsingRazor.dll
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\bin\Debug\netcoreapp1.1\UsingRazor.pdb
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\obj\Debug\netcoreapp1.1\UsingRazor.csprojResolveAssemblyReference.cache
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\obj\Debug\netcoreapp1.1\UsingRazor.AssemblyInfo.cs
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\obj\Debug\netcoreapp1.1\UsingRazor.dll
+C:\Users\Priscilla\Desktop\AdvClassExamples-master\AdvClassExamples-master\UsingRazor\UsingRazor\obj\Debug\netcoreapp1.1\UsingRazor.pdb
